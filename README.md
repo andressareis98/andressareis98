@@ -1,4 +1,4 @@
-### Olá, eu sou a Andressa Reis! 👋
+### Olá, eu a Andressa Araujo! 👋
 
 - 👩🏻‍💻 Trabalho com front-end;
 - 📘 Estudando Angular e React Native;
