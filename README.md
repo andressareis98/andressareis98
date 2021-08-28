@@ -1,4 +1,4 @@
-### Olá, eu a Andressa Araujo! 👋
+### Olá, eu sou a Andressa Araujo! 👋
 
 - 👩🏻‍💻 Trabalho com front-end;
 - 📘 Estudando Angular e React Native;
