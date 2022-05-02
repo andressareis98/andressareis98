@@ -1,7 +1,7 @@
 ### Olá, eu sou a Andressa Araujo! 👋
 
 - 👩🏻‍💻 Trabalho com front-end;
-- 📘 Estudando JavaScript, Nodejs e Java;
+- 📘 Estudando JavaScript, TypeScript, React e Next;
 
 
 ### Entre em contato
