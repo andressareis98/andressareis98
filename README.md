@@ -1,31 +1,23 @@
-### Olá, eu sou a Andressa Araujo! 👋
+### Olá! Sou Andressa ✨
 
-- 👩🏻‍💻 Trabalho com front-end;
-- 📘 Estudando JavaScript, TypeScript, React e Next;
+- Desenvolvedora frontend com três anos de experiência;
+- Habilidades sólidas em JavaScript/TypeScript e domínio das seguintes tecnologias:
 
+#### Principais Habilidades e Expertise 🚀
 
-### Entre em contato
+- Linguagens: HTML, CSS, JavaScript, TypeScript
+- Frameworks e Bibliotecas: React.js, Next.js, React Native, Angular
+- Controle de Versão: Git
 
-- 💼  [LinkedIn](https://www.linkedin.com/in/andressa-reis-araujo)
+#### Ferramentas e Softwares 🛠️
 
+- Ambiente de Desenvolvimento: Node.js, Visual Studio Code
+- Design de Interface: Figma
 
+#### Experiência e Interesses 💼
 
-### Minhas tecnologias de desenvolvimento
+Tenho experiência em desenvolvimento frontend utilizando React.js, Next.js, React Native e Angular. Meu foco principal é criar interfaces de usuário atraentes, responsivas e acessíveis. Acredito na importância de adaptar o design para diferentes tipos de telas e fornecer uma experiência de usuário excepcional.
 
-<div style="display: inline_block">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Angular" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" />
-  <img align="center" alt="React-Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
-</div>
+#### Redes Sociais 🌐
 
-
-
-
-<!---
-andressareis98/andressareis98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [Perfil no LinkedIn](https://www.linkedin.com/in/andressa-reis-araujo/)
