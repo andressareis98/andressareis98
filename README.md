@@ -14,10 +14,6 @@
 - Ambiente de Desenvolvimento: Node.js, Visual Studio Code
 - Design de Interface: Figma
 
-#### Experiência e Interesses 💼
-
-Tenho experiência em desenvolvimento frontend utilizando React.js, Next.js, React Native e Angular. Meu foco principal é criar interfaces de usuário atraentes, responsivas e acessíveis. Acredito na importância de adaptar o design para diferentes tipos de telas e fornecer uma experiência de usuário excepcional.
-
 #### Redes Sociais 🌐
 
 - [Perfil no LinkedIn](https://www.linkedin.com/in/andressa-reis-araujo/)
