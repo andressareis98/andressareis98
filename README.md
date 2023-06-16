@@ -1,7 +1,7 @@
 ### Olá! Sou Andressa ✨
 
 - Desenvolvedora frontend com três anos de experiência;
-- Habilidades sólidas em JavaScript/TypeScript e domínio das seguintes tecnologias:
+- Habilidades sólidas em JavaScript/TypeScript;
 
 #### Principais Habilidades e Expertise 🚀
 
